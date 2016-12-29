@@ -11,4 +11,4 @@
 | 7 | Write a Function |
 | 8 | Print Function |
 
-Table to be updated further
+Table to be updated further..
